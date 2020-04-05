@@ -13,4 +13,4 @@ Optimal transport is one of the popular methodsused in ML, e.g.  for domain adap
 5) pu.sh - example of input file to run experiments on cluster
 6) Requirements.txt - python packages that required for results recreation
 
-DASPOT experiment results are too big for github, so we decided to upload zip archive here - https://yadi.sk/d/3IAMIuv0tINVrg: Experiments_results_DASPOT.zip contains results for DASPOT: one fake image and tsne "clustering" graph per every 500 out of 30000 iteration for 7 different pairs of datasets.
+DASPOT experiment results are too big for github, so we decided to upload zip archive here - https://yadi.sk/d/3IAMIuv0tINVrg: Experiments_results_DASPOT.zip contains results for DASPOT: one fake image and tsne "clustering" graph per every 500 out of 30000 iteration for 7 different pairs of datasets. Please, contact alexander.shumilov@skoltech.ru if link will brake or expired.
