@@ -8,9 +8,10 @@ Optimal transport is one of the popular methodsused in ML, e.g.  for domain adap
 ### Content:
 
 1) SPOT.py - notebook for SPOT algorithm realization (to run it on GPU just try downloading it in '.py' format)
-2) DASPOT.ipynb - notebook for DASPOT algorithm realization (to run it on GPU just try downloading it in '.py' format)
+2) DASPOT.py - DASPOT algorithm realization 
 3) 
 4) pu.sh - example of input file to run experiments on cluster
 5) Requirements.txt - python packages that required for results recreation
+6) Experiment_DASPOT - folder with some results for DASPOT that did not make it to the final version of report
 
-Full DASPOT experiment results are too big for github, so we decided to upload zip archive here - https://yadi.sk/d/3IAMIuv0tINVrg: Experiments_results_DASPOT.zip contains results for DASPOT: one fake image and tsne "clustering" graph per every 500 out of 30000 iteration for 7 different pairs of datasets. Please, contact alexander.shumilov@skoltech.ru if link will brake or expired.
+Full SPOT & DASPOT experiment results are too big for github, so we decided to upload zip archive here - : . Please, contact alexander.shumilov@skoltech.ru if link will brake or expire.
